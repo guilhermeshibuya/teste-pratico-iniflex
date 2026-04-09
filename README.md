@@ -10,7 +10,7 @@ Este repositório contém a solução desenvolvida para o teste prático do proc
 
 ## Como executar o projeto
 
-Ter o ** JDK 21** (ou superior) instalado.
+Ter o **JDK 21** (ou superior) instalado.
 
 1. **Clone o repositório**
 
